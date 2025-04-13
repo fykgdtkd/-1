@@ -1,0 +1,17 @@
+[134月2025 16:49:50.593] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.33, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[134月2025 16:49:50.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[134月2025 16:49:50.674] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\16651\Desktop\fffff\config\fml.toml is not correct. Correcting
+[134月2025 16:49:50.675] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[134月2025 16:49:50.676] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[134月2025 16:49:50.676] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[134月2025 16:49:50.676] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[134月2025 16:49:50.688] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[134月2025 16:49:50.724] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/16651/Desktop/fffff/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[134月2025 16:49:50.892] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\16651\Desktop\fffff\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.33\fmlcore-1.20.1-47.3.33.jar is missing mods.toml file
+[134月2025 16:49:50.895] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\16651\Desktop\fffff\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.33\javafmllanguage-1.20.1-47.3.33.jar is missing mods.toml file
+[134月2025 16:49:50.899] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\16651\Desktop\fffff\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.33\lowcodelanguage-1.20.1-47.3.33.jar is missing mods.toml file
+[134月2025 16:49:50.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\16651\Desktop\fffff\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.33\mclanguage-1.20.1-47.3.33.jar is missing mods.toml file
+[134月2025 16:49:50.970] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[134月2025 16:49:51.816] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[134月2025 16:49:52.021] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[134月2025 16:49:52.029] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
